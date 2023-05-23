@@ -6,13 +6,14 @@
  
 </head>
 <body>
-  <h1>Olá! bem vindo ao meu perfil</h1>
-  <h2>👋Sou um estudante de Análise e Desenvolvimento de Sistemas apaixonado por programação, com foco em desenvolvimento backend.</h2> 
-  
-  <p> 💻 Meu objetivo é criar soluções eficientes e escaláveis.</p>
-  <p> ✨ Estou em busca de desafios e oportunidades para contribuir em projetos inovadores. Sou proativo, curioso e sempre comprometido em escrever um código limpo e eficiente.</p>
-  <p> 📫 Vamos colaborar em projetos interessantes e impulsionar o desenvolvimento de soluções de software de qualidade! Conecte-se comigo aqui no GitHub e vamos criar algo incrível juntos.</p>
+  <h1>Hi! welcome to my profile</h1>
+  <h2>👋 I'm a Systems Analysis and Developments student focused on back-end programming.</h2> 
 
+  
+  <p> 💻My goal is to always implement efficient and scalatorables solutions in my projects.</p>
+  <p> ✨I look for challenges and opportunities to contribute in innovation projects. I'm proactive, curious and always go for a clean and understandable code that works.</p>
+  <p> 📫Let's collaborate on interesting projects and drive the development of quality software solutions! Connect with me here on GitHub and let's create something amazing together.</p>
+  
   
 
   
