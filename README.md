@@ -6,7 +6,6 @@
 
 </head>
 <body>
-  Samuel Araujo - Backend Developer
   <h1>👋 Hello and welcome to my profile!</h1>
   
   <h2>💻 Backend Web Developer | Systems Analysis and Development Graduate</h2> 
