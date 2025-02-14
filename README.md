@@ -22,6 +22,16 @@
     </a>
   </div>
 
+### Stack:
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&logoColor=777BB4&labelColor=0D1117
+)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-0D1117?style=for-the-badge&logo=Laravel&logoColor=FF2D20&labelColor=0D1117
+)&nbsp;
+
+
+
+
+
   <h2>🌎 Connect with me</h2>
   <a href="https://br.linkedin.com/in/samuel-araujo-3210261b6" target="_blank">
     <img height="30" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
